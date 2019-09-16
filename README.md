@@ -1,10 +1,11 @@
 [![Open Source Love](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
-# 100 Days challenge.
-## Language:
- Java
+<h1 align="center">100 Days Challenge</h1></p>
+<p align="center">
+    <img src="Images/java-logo.png" alt="Logo" height="60">
  
- 
+---
+
 ## Challenge & Commitment
 This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway/100-days-of-code "the official repo") challenge. More details about the challenge can be found here: [100daysofcode.com](http://100daysofcode.com/ "100daysofcode.com").
 
