@@ -1,4 +1,4 @@
-[![Open Source Love](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
+[![Open Source Love](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)  [![Language Used](https://img.shields.io/badge/Language-Java-blue)](https://www.java.com)
 
 <h1 align="center">100 Days Challenge</h1></p>
 <p align="center">
