@@ -1,16 +1,6 @@
 
 package com.ishan.main;
 
-//import com.github.sarxos.webcam.Webcam;
-
-//import com.sun.corba.se.spi.orbutil.fsm.Guard.Result;
-
-
-//import com.sun.net.httpserver.Authenticator.Result;
-
-
-//import javax.xml.transform.Result;
-
 import com.github.sarxos.webcam.Webcam;
 import com.github.sarxos.webcam.WebcamPanel;
 import com.github.sarxos.webcam.WebcamResolution;
