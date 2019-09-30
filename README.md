@@ -1,4 +1,4 @@
-[![Open Source Love](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)  [![Language Used](https://img.shields.io/badge/Language-Java-blue)](https://www.java.com)  [![Platform Used](https://img.shields.io/badge/IDE-Netbeans%208.2-blue)](https://netbeans.org)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)  [![Language Used](https://img.shields.io/badge/Language-Java-blue)](https://www.java.com)  [![Platform Used](https://img.shields.io/badge/IDE-Netbeans%208.2-blue)](https://netbeans.org)
 
 <h1 align="center">100 Days Challenge</h1></p>
 <p align="center">
